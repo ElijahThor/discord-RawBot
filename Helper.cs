@@ -13,7 +13,7 @@ namespace RawBotFYP_GUI_.Core.Commands
     #region HelpCommand
     public class HelpCommand : ModuleBase<SocketCommandContext>
     {
-
+//help command for users to check what commands are available.
         [Command("help")]
         public async Task AllCommands() // Commands Help
         {
