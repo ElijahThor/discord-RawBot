@@ -11,6 +11,8 @@ using RawBotFYP_GUI_.Core.Data;
 using System.IO;
 using System.Reflection;
 
+//for moderations use.
+
 namespace RawBotFYP_GUI_.Core.Commands
 {
 
