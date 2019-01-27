@@ -22,6 +22,8 @@ using System.Net.Http;
 using Discord.Rest;
 using System.Collections.Concurrent;
 
+//entertainment commands for fun.
+
 namespace RawBotFYP_GUI_.Core.Commands 
 {
     #region Methods
